@@ -6,7 +6,6 @@ Este proyecto es una aplicación web para la gestión de empresas, desarrollada 
 
 - Node.js (v14.0.0 o superior)
 - npm (v6.0.0 o superior)
-- Conexión a Internet
 - El backend del proyecto debe estar en ejecución
 
 ## 🚀 Instalación
